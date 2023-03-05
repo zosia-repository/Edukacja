@@ -1,0 +1,66 @@
+---
+title: "Praca domowa temat -Liniar equations-"
+format: 
+   pdf:
+      warning: false
+      message: false
+      echo: false
+      self-contained: true
+editor: visual
+editor_options: 
+  chunk_output_type: console
+---
+
+# zadanie 1
+
+a)  $-31-4x = -5-5(1+5x)$
+
+b)  $8x+4(4x-3) = 4(6x+4) - 4$
+
+c)  $4(-8x+5) = -32x-26$
+
+# zadanie 2
+
+a)  $5(x-3) - 7(6-x) = 24-3(8-x)-3$
+
+b)  $8(x-1) + 17(x-3) = 4(4x-9) +4$
+
+c)  $15(x-1) + 4(x+3) = 2(7+x)$
+
+# zadanie 3
+
+a)  $\frac{4x}{5} - \frac{7}{4} = \frac{x}{5} + \frac{x}{4}$
+
+b)  $5x-6(x-5) = 2(x+5)+5(x-4)$
+
+c)  $(x+15)(x-3) - (x^2-6x+9) = 30-15(x-1)$
+
+```{r, message=FALSE, warning=FALSE, echo = FALSE}
+
+if (knitr:::is_latex_output()) {
+  knitr::asis_output('\\url{....}')
+} else {
+  knitr::include_graphics("thank1.gif")
+}
+```
+
+# zadanie 4
+
+a)  $\frac{x-2}{2}+\frac{x+10}{9} = 5$
+
+b)  $\frac{x+35}{6} - \frac{x+7}{9} = \frac{x+21}{4}$
+
+c)  $(x+1)(2x+1) = (x+3)(2x+3)-14$
+
+# zadanie 5
+
+a)  $5x - [(4x-7)(3x-5)] = 6-3[(4x-9)(x-1)]$
+
+```{r, message=FALSE, warning=FALSE, echo = FALSE}
+
+if (knitr:::is_latex_output()) {
+  knitr::asis_output('\\url{....}')
+} else {
+  knitr::include_graphics("great.gif")
+}
+```

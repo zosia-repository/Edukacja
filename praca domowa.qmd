@@ -1,0 +1,148 @@
+---
+title: "Praca domowa"
+subtitle: na temat -nierówności i równania- 
+author: "Zosia"
+format: 
+  html:
+    self-contained: true
+    self-contained-math: true
+    toc: true
+    toc-title: Spis treści
+    cod-fold: true
+    code-summary: Code
+    highlight-style: default
+    number-sections: true
+editor: visual
+editor_opions:
+  chunk_ouput_type: console
+---
+
+# zadanie
+
+```{r, message=FALSE, warning=FALSE, echo = FALSE}
+
+if (knitr:::is_latex_output()) {
+  knitr::asis_output('\\url{....}')
+} else {
+  knitr::include_graphics("zad1.png")
+}
+```
+
+# zadanie
+
+```{r, message=FALSE, warning=FALSE, echo = FALSE}
+
+if (knitr:::is_latex_output()) {
+  knitr::asis_output('\\url{....}')
+} else {
+  knitr::include_graphics("zad2.png")
+}
+```
+
+# zadanie
+
+```{r, message=FALSE, warning=FALSE, echo = FALSE}
+
+if (knitr:::is_latex_output()) {
+  knitr::asis_output('\\url{....}')
+} else {
+  knitr::include_graphics("zad3.png")
+}
+```
+
+# zadanie
+
+```{r, message=FALSE, warning=FALSE, echo = FALSE}
+
+if (knitr:::is_latex_output()) {
+  knitr::asis_output('\\url{....}')
+} else {
+  knitr::include_graphics("zad4.png")
+}
+```
+
+# zadanie
+
+```{r, message=FALSE, warning=FALSE, echo = FALSE}
+
+if (knitr:::is_latex_output()) {
+  knitr::asis_output('\\url{....}')
+} else {
+  knitr::include_graphics("zad5.png")
+}
+```
+
+# zadanie
+
+```{r, message=FALSE, warning=FALSE, echo = FALSE}
+
+if (knitr:::is_latex_output()) {
+  knitr::asis_output('\\url{....}')
+} else {
+  knitr::include_graphics("zad6.png")
+}
+```
+
+# zadanie
+
+```{r, message=FALSE, warning=FALSE, echo = FALSE}
+
+if (knitr:::is_latex_output()) {
+  knitr::asis_output('\\url{....}')
+} else {
+  knitr::include_graphics("zad7.png")
+}
+```
+
+```{r, message=FALSE, warning=FALSE, echo = FALSE}
+
+if (knitr:::is_latex_output()) {
+  knitr::asis_output('\\url{....}')
+} else {
+  knitr::include_graphics("good3.gif")
+}
+```
+
+# zadanie
+
+```{r, message=FALSE, warning=FALSE, echo = FALSE}
+
+if (knitr:::is_latex_output()) {
+  knitr::asis_output('\\url{....}')
+} else {
+  knitr::include_graphics("zad8.png")
+}
+```
+
+# zadanie
+
+```{r, message=FALSE, warning=FALSE, echo = FALSE}
+
+if (knitr:::is_latex_output()) {
+  knitr::asis_output('\\url{....}')
+} else {
+  knitr::include_graphics("zad9.png")
+}
+```
+
+# zadanie
+
+```{r, message=FALSE, warning=FALSE, echo = FALSE}
+
+if (knitr:::is_latex_output()) {
+  knitr::asis_output('\\url{....}')
+} else {
+  knitr::include_graphics("zad10.png")
+}
+```
+
+# zadanie
+
+```{r, message=FALSE, warning=FALSE, echo = FALSE}
+
+if (knitr:::is_latex_output()) {
+  knitr::asis_output('\\url{....}')
+} else {
+  knitr::include_graphics("zad11.png")
+}
+```
